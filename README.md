@@ -1,2 +1,2 @@
 # PhotoImageProcecssTool
-Merge images;Remove background;Page confirmation;Text extraction(OCR);Transparency
+Merge images; Remove background; Page rotation correction; Text extraction(OCR); Transparency
